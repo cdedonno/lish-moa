@@ -2,7 +2,7 @@
 lightning_logs/
 data/
 logs/
-
+.DS_store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
